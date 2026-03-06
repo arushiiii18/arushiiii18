@@ -1,4 +1,4 @@
-Arushi Sagar 
+Hi, I'm Arushi Sagar 
 
 AI/ML student building end-to-end data systems using real datasets.
 
