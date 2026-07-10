@@ -5,7 +5,7 @@
 ### building ML/AI systems around messy real-world data and occasionally convincing them to work.
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-arushi_sagar-A61E4D?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arushi-sagar-ba4432329/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-arushi_sagar-A61E4D?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arushi-sagar/)
 [![Email](https://img.shields.io/badge/email-arushisagar18@gmail.com-A61E4D?style=flat-square&logo=gmail&logoColor=white)](mailto:arushisagar18@gmail.com)
 
 </div>
